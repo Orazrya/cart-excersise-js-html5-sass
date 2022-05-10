@@ -1,0 +1,18 @@
+body {
+  background-image: url(./assets/pexels-mnz-1598505.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+body main {
+  font-family: sans-serif;
+}
+
+body main .purchase-container .object-one {
+  background-color: rgba(206, 203, 190, 0.799);
+}
+
+body main .purchase-container .object-one .pouch-woman {
+  width: 10%;
+}
+/*# sourceMappingURL=style2.css.map */
